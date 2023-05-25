@@ -73,7 +73,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>springboot-aws-rds</finalName>
+        <finalName>springboot-aws-rds-secret</finalName>
     </build>
 
 </project>
