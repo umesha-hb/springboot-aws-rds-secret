@@ -18,9 +18,9 @@ import java.util.Base64;
 @Configuration
 public class ApplicationConfig {
 
-    private String accessKey="AKIA2PG54BRQKZWRMWHK";
+    private String accessKey="";
 
-    private String secretKey="E+Y5lZug63NJO8ZILZ6s69R3f2zrDTXVJ/5Fgpbg";
+    private String secretKey="";
 
 
     private Gson gson = new Gson();
